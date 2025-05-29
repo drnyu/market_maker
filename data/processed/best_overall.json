@@ -1,0 +1,11 @@
+{
+    "0.05_4.0": {
+        "total_cash": 735173.0,
+        "total_inventory": -14949,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 4.0,
+        "avg_cash": 147.7734673366834,
+        "avg_inventory": -3.0048241206030153
+    }
+}

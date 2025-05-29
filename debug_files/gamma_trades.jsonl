@@ -1,0 +1,1 @@
+{"timestamp": "ignore", "data": {"trades": [{"trade_id": "test_bid_fill", "ticker": "TEST", "count": 10, "created_time": "1970-01-01T00:00:10Z", "yes_price": 39.30, "no_price": 60.70, "taker_side": "yes"}], "cursor": "test_cursor"}}

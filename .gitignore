@@ -1,0 +1,7 @@
+**/__pycache__/
+env/
+.env
+*.pem
+market_results.json
+market_results_2.json
+data/market_data

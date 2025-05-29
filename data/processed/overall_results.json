@@ -1,0 +1,1802 @@
+{
+    "0.05_0.5": {
+        "total_cash": 567032.0,
+        "total_inventory": -7512,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 0.5,
+        "avg_cash": 113.97628140703517,
+        "avg_inventory": -1.5099497487437186
+    },
+    "0.05_1.0": {
+        "total_cash": 685103.0,
+        "total_inventory": -12003,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 1.0,
+        "avg_cash": 137.70914572864322,
+        "avg_inventory": -2.4126633165829148
+    },
+    "0.05_1.5": {
+        "total_cash": 688958.0,
+        "total_inventory": -12260,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 1.5,
+        "avg_cash": 138.4840201005025,
+        "avg_inventory": -2.464321608040201
+    },
+    "0.05_2.0": {
+        "total_cash": 726624.0,
+        "total_inventory": -14700,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 2.0,
+        "avg_cash": 146.05507537688442,
+        "avg_inventory": -2.9547738693467336
+    },
+    "0.05_2.5": {
+        "total_cash": 733726.0,
+        "total_inventory": -14886,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 2.5,
+        "avg_cash": 147.48261306532663,
+        "avg_inventory": -2.9921608040201004
+    },
+    "0.05_3.0": {
+        "total_cash": 734346.0,
+        "total_inventory": -15010,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 3.0,
+        "avg_cash": 147.60723618090452,
+        "avg_inventory": -3.017085427135678
+    },
+    "0.05_3.5": {
+        "total_cash": 733182.0,
+        "total_inventory": -14919,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 3.5,
+        "avg_cash": 147.3732663316583,
+        "avg_inventory": -2.9987939698492463
+    },
+    "0.05_4.0": {
+        "total_cash": 735173.0,
+        "total_inventory": -14949,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 4.0,
+        "avg_cash": 147.7734673366834,
+        "avg_inventory": -3.0048241206030153
+    },
+    "0.05_4.5": {
+        "total_cash": 728673.0,
+        "total_inventory": -14785,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 4.5,
+        "avg_cash": 146.46693467336684,
+        "avg_inventory": -2.971859296482412
+    },
+    "0.05_5.0": {
+        "total_cash": 732116.0,
+        "total_inventory": -14960,
+        "count": 4975,
+        "gamma": 0.05,
+        "kappa": 5.0,
+        "avg_cash": 147.15899497487436,
+        "avg_inventory": -3.007035175879397
+    },
+    "0.1_0.5": {
+        "total_cash": 571757.0,
+        "total_inventory": -6961,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 0.5,
+        "avg_cash": 114.92603015075377,
+        "avg_inventory": -1.3991959798994975
+    },
+    "0.1_1.0": {
+        "total_cash": 668490.0,
+        "total_inventory": -10880,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 1.0,
+        "avg_cash": 134.36984924623115,
+        "avg_inventory": -2.1869346733668342
+    },
+    "0.1_1.5": {
+        "total_cash": 669005.0,
+        "total_inventory": -10715,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 1.5,
+        "avg_cash": 134.47336683417086,
+        "avg_inventory": -2.1537688442211054
+    },
+    "0.1_2.0": {
+        "total_cash": 699880.0,
+        "total_inventory": -13257,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 2.0,
+        "avg_cash": 140.67939698492464,
+        "avg_inventory": -2.664723618090452
+    },
+    "0.1_2.5": {
+        "total_cash": 713148.0,
+        "total_inventory": -13500,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 2.5,
+        "avg_cash": 143.34633165829146,
+        "avg_inventory": -2.71356783919598
+    },
+    "0.1_3.0": {
+        "total_cash": 714346.0,
+        "total_inventory": -13424,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 3.0,
+        "avg_cash": 143.58713567839197,
+        "avg_inventory": -2.698291457286432
+    },
+    "0.1_3.5": {
+        "total_cash": 716578.0,
+        "total_inventory": -13481,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 3.5,
+        "avg_cash": 144.03577889447237,
+        "avg_inventory": -2.7097487437185928
+    },
+    "0.1_4.0": {
+        "total_cash": 723280.0,
+        "total_inventory": -13551,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 4.0,
+        "avg_cash": 145.3829145728643,
+        "avg_inventory": -2.723819095477387
+    },
+    "0.1_4.5": {
+        "total_cash": 725235.0,
+        "total_inventory": -13597,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 4.5,
+        "avg_cash": 145.77587939698492,
+        "avg_inventory": -2.7330653266331657
+    },
+    "0.1_5.0": {
+        "total_cash": 723750.0,
+        "total_inventory": -13596,
+        "count": 4975,
+        "gamma": 0.1,
+        "kappa": 5.0,
+        "avg_cash": 145.47738693467338,
+        "avg_inventory": -2.7328643216080404
+    },
+    "0.15_0.5": {
+        "total_cash": 562139.0,
+        "total_inventory": -6643,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 0.5,
+        "avg_cash": 112.99276381909547,
+        "avg_inventory": -1.3352763819095477
+    },
+    "0.15_1.0": {
+        "total_cash": 662094.0,
+        "total_inventory": -10200,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 1.0,
+        "avg_cash": 133.08422110552763,
+        "avg_inventory": -2.050251256281407
+    },
+    "0.15_1.5": {
+        "total_cash": 657610.0,
+        "total_inventory": -9897,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 1.5,
+        "avg_cash": 132.18291457286432,
+        "avg_inventory": -1.9893467336683417
+    },
+    "0.15_2.0": {
+        "total_cash": 693846.0,
+        "total_inventory": -12470,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 2.0,
+        "avg_cash": 139.46653266331657,
+        "avg_inventory": -2.506532663316583
+    },
+    "0.15_2.5": {
+        "total_cash": 697908.0,
+        "total_inventory": -12563,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 2.5,
+        "avg_cash": 140.28301507537688,
+        "avg_inventory": -2.5252261306532664
+    },
+    "0.15_3.0": {
+        "total_cash": 697372.0,
+        "total_inventory": -12476,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 3.0,
+        "avg_cash": 140.17527638190955,
+        "avg_inventory": -2.5077386934673367
+    },
+    "0.15_3.5": {
+        "total_cash": 697573.0,
+        "total_inventory": -12425,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 3.5,
+        "avg_cash": 140.2156783919598,
+        "avg_inventory": -2.4974874371859297
+    },
+    "0.15_4.0": {
+        "total_cash": 695238.0,
+        "total_inventory": -12441,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 4.0,
+        "avg_cash": 139.74633165829147,
+        "avg_inventory": -2.5007035175879397
+    },
+    "0.15_4.5": {
+        "total_cash": 697398.0,
+        "total_inventory": -12484,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 4.5,
+        "avg_cash": 140.1805025125628,
+        "avg_inventory": -2.5093467336683415
+    },
+    "0.15_5.0": {
+        "total_cash": 697523.0,
+        "total_inventory": -12478,
+        "count": 4975,
+        "gamma": 0.15,
+        "kappa": 5.0,
+        "avg_cash": 140.2056281407035,
+        "avg_inventory": -2.5081407035175878
+    },
+    "0.2_0.5": {
+        "total_cash": 560011.0,
+        "total_inventory": -6304,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 0.5,
+        "avg_cash": 112.56502512562814,
+        "avg_inventory": -1.2671356783919598
+    },
+    "0.2_1.0": {
+        "total_cash": 651361.0,
+        "total_inventory": -9576,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 1.0,
+        "avg_cash": 130.92683417085428,
+        "avg_inventory": -1.924824120603015
+    },
+    "0.2_1.5": {
+        "total_cash": 642236.0,
+        "total_inventory": -9390,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 1.5,
+        "avg_cash": 129.09266331658293,
+        "avg_inventory": -1.8874371859296482
+    },
+    "0.2_2.0": {
+        "total_cash": 679605.0,
+        "total_inventory": -11836,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 2.0,
+        "avg_cash": 136.6040201005025,
+        "avg_inventory": -2.379095477386935
+    },
+    "0.2_2.5": {
+        "total_cash": 682796.0,
+        "total_inventory": -12039,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 2.5,
+        "avg_cash": 137.2454271356784,
+        "avg_inventory": -2.419899497487437
+    },
+    "0.2_3.0": {
+        "total_cash": 682618.0,
+        "total_inventory": -12036,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 3.0,
+        "avg_cash": 137.20964824120603,
+        "avg_inventory": -2.41929648241206
+    },
+    "0.2_3.5": {
+        "total_cash": 692371.0,
+        "total_inventory": -12136,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 3.5,
+        "avg_cash": 139.17005025125627,
+        "avg_inventory": -2.439396984924623
+    },
+    "0.2_4.0": {
+        "total_cash": 691375.0,
+        "total_inventory": -12086,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 4.0,
+        "avg_cash": 138.96984924623115,
+        "avg_inventory": -2.429346733668342
+    },
+    "0.2_4.5": {
+        "total_cash": 693655.0,
+        "total_inventory": -12110,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 4.5,
+        "avg_cash": 139.42814070351758,
+        "avg_inventory": -2.4341708542713567
+    },
+    "0.2_5.0": {
+        "total_cash": 693787.0,
+        "total_inventory": -12130,
+        "count": 4975,
+        "gamma": 0.2,
+        "kappa": 5.0,
+        "avg_cash": 139.45467336683416,
+        "avg_inventory": -2.4381909547738694
+    },
+    "0.25_0.5": {
+        "total_cash": 551254.0,
+        "total_inventory": -6021,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 0.5,
+        "avg_cash": 110.80482412060302,
+        "avg_inventory": -1.210251256281407
+    },
+    "0.25_1.0": {
+        "total_cash": 646778.0,
+        "total_inventory": -9241,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 1.0,
+        "avg_cash": 130.00562814070352,
+        "avg_inventory": -1.8574874371859296
+    },
+    "0.25_1.5": {
+        "total_cash": 644263.0,
+        "total_inventory": -9381,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 1.5,
+        "avg_cash": 129.50010050251257,
+        "avg_inventory": -1.8856281407035176
+    },
+    "0.25_2.0": {
+        "total_cash": 667154.0,
+        "total_inventory": -11424,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 2.0,
+        "avg_cash": 134.10130653266333,
+        "avg_inventory": -2.296281407035176
+    },
+    "0.25_2.5": {
+        "total_cash": 673416.0,
+        "total_inventory": -11744,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 2.5,
+        "avg_cash": 135.36,
+        "avg_inventory": -2.3606030150753767
+    },
+    "0.25_3.0": {
+        "total_cash": 669460.0,
+        "total_inventory": -11526,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 3.0,
+        "avg_cash": 134.56482412060302,
+        "avg_inventory": -2.31678391959799
+    },
+    "0.25_3.5": {
+        "total_cash": 675277.0,
+        "total_inventory": -11628,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 3.5,
+        "avg_cash": 135.7340703517588,
+        "avg_inventory": -2.3372864321608042
+    },
+    "0.25_4.0": {
+        "total_cash": 673997.0,
+        "total_inventory": -11576,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 4.0,
+        "avg_cash": 135.47678391959798,
+        "avg_inventory": -2.3268341708542715
+    },
+    "0.25_4.5": {
+        "total_cash": 675951.0,
+        "total_inventory": -11569,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 4.5,
+        "avg_cash": 135.86954773869346,
+        "avg_inventory": -2.325427135678392
+    },
+    "0.25_5.0": {
+        "total_cash": 674271.0,
+        "total_inventory": -11569,
+        "count": 4975,
+        "gamma": 0.25,
+        "kappa": 5.0,
+        "avg_cash": 135.53185929648242,
+        "avg_inventory": -2.325427135678392
+    },
+    "0.3_0.5": {
+        "total_cash": 556328.0,
+        "total_inventory": -5905,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 0.5,
+        "avg_cash": 111.82472361809046,
+        "avg_inventory": -1.1869346733668342
+    },
+    "0.3_1.0": {
+        "total_cash": 632650.0,
+        "total_inventory": -9040,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 1.0,
+        "avg_cash": 127.16582914572864,
+        "avg_inventory": -1.8170854271356784
+    },
+    "0.3_1.5": {
+        "total_cash": 636822.0,
+        "total_inventory": -9052,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 1.5,
+        "avg_cash": 128.00442211055275,
+        "avg_inventory": -1.8194974874371859
+    },
+    "0.3_2.0": {
+        "total_cash": 675185.0,
+        "total_inventory": -11417,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 2.0,
+        "avg_cash": 135.71557788944725,
+        "avg_inventory": -2.2948743718592963
+    },
+    "0.3_2.5": {
+        "total_cash": 683727.0,
+        "total_inventory": -11675,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 2.5,
+        "avg_cash": 137.43256281407037,
+        "avg_inventory": -2.3467336683417086
+    },
+    "0.3_3.0": {
+        "total_cash": 679128.0,
+        "total_inventory": -11530,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 3.0,
+        "avg_cash": 136.5081407035176,
+        "avg_inventory": -2.3175879396984924
+    },
+    "0.3_3.5": {
+        "total_cash": 671975.0,
+        "total_inventory": -11419,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 3.5,
+        "avg_cash": 135.07035175879398,
+        "avg_inventory": -2.295276381909548
+    },
+    "0.3_4.0": {
+        "total_cash": 677401.0,
+        "total_inventory": -11440,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 4.0,
+        "avg_cash": 136.16100502512563,
+        "avg_inventory": -2.299497487437186
+    },
+    "0.3_4.5": {
+        "total_cash": 670800.0,
+        "total_inventory": -11339,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 4.5,
+        "avg_cash": 134.83417085427135,
+        "avg_inventory": -2.2791959798994976
+    },
+    "0.3_5.0": {
+        "total_cash": 666637.0,
+        "total_inventory": -11289,
+        "count": 4975,
+        "gamma": 0.3,
+        "kappa": 5.0,
+        "avg_cash": 133.99738693467336,
+        "avg_inventory": -2.269145728643216
+    },
+    "0.35_0.5": {
+        "total_cash": 549646.0,
+        "total_inventory": -5727,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 0.5,
+        "avg_cash": 110.48160804020101,
+        "avg_inventory": -1.1511557788944724
+    },
+    "0.35_1.0": {
+        "total_cash": 629822.0,
+        "total_inventory": -8941,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 1.0,
+        "avg_cash": 126.59738693467337,
+        "avg_inventory": -1.7971859296482413
+    },
+    "0.35_1.5": {
+        "total_cash": 629980.0,
+        "total_inventory": -8755,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 1.5,
+        "avg_cash": 126.62914572864321,
+        "avg_inventory": -1.7597989949748745
+    },
+    "0.35_2.0": {
+        "total_cash": 668862.0,
+        "total_inventory": -11298,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 2.0,
+        "avg_cash": 134.44462311557788,
+        "avg_inventory": -2.2709547738693465
+    },
+    "0.35_2.5": {
+        "total_cash": 665548.0,
+        "total_inventory": -11335,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 2.5,
+        "avg_cash": 133.77849246231156,
+        "avg_inventory": -2.278391959798995
+    },
+    "0.35_3.0": {
+        "total_cash": 666487.0,
+        "total_inventory": -11368,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 3.0,
+        "avg_cash": 133.96723618090454,
+        "avg_inventory": -2.285025125628141
+    },
+    "0.35_3.5": {
+        "total_cash": 667163.0,
+        "total_inventory": -11367,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 3.5,
+        "avg_cash": 134.10311557788944,
+        "avg_inventory": -2.284824120603015
+    },
+    "0.35_4.0": {
+        "total_cash": 666619.0,
+        "total_inventory": -11329,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 4.0,
+        "avg_cash": 133.9937688442211,
+        "avg_inventory": -2.2771859296482413
+    },
+    "0.35_4.5": {
+        "total_cash": 669855.0,
+        "total_inventory": -11415,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 4.5,
+        "avg_cash": 134.64422110552763,
+        "avg_inventory": -2.2944723618090452
+    },
+    "0.35_5.0": {
+        "total_cash": 670236.0,
+        "total_inventory": -11423,
+        "count": 4975,
+        "gamma": 0.35,
+        "kappa": 5.0,
+        "avg_cash": 134.7208040201005,
+        "avg_inventory": -2.29608040201005
+    },
+    "0.4_0.5": {
+        "total_cash": 587160.0,
+        "total_inventory": -6913,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 0.5,
+        "avg_cash": 118.02211055276382,
+        "avg_inventory": -1.3895477386934674
+    },
+    "0.4_1.0": {
+        "total_cash": 618959.0,
+        "total_inventory": -8617,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 1.0,
+        "avg_cash": 124.41386934673366,
+        "avg_inventory": -1.7320603015075378
+    },
+    "0.4_1.5": {
+        "total_cash": 631756.0,
+        "total_inventory": -8774,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 1.5,
+        "avg_cash": 126.98613065326633,
+        "avg_inventory": -1.7636180904522614
+    },
+    "0.4_2.0": {
+        "total_cash": 656091.0,
+        "total_inventory": -11035,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 2.0,
+        "avg_cash": 131.8775879396985,
+        "avg_inventory": -2.2180904522613067
+    },
+    "0.4_2.5": {
+        "total_cash": 658443.0,
+        "total_inventory": -11159,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 2.5,
+        "avg_cash": 132.35035175879398,
+        "avg_inventory": -2.2430150753768845
+    },
+    "0.4_3.0": {
+        "total_cash": 659401.0,
+        "total_inventory": -11247,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 3.0,
+        "avg_cash": 132.54291457286433,
+        "avg_inventory": -2.2607035175879395
+    },
+    "0.4_3.5": {
+        "total_cash": 659477.0,
+        "total_inventory": -11224,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 3.5,
+        "avg_cash": 132.55819095477386,
+        "avg_inventory": -2.2560804020100504
+    },
+    "0.4_4.0": {
+        "total_cash": 659228.0,
+        "total_inventory": -11240,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 4.0,
+        "avg_cash": 132.5081407035176,
+        "avg_inventory": -2.2592964824120605
+    },
+    "0.4_4.5": {
+        "total_cash": 656725.0,
+        "total_inventory": -11236,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 4.5,
+        "avg_cash": 132.00502512562815,
+        "avg_inventory": -2.258492462311558
+    },
+    "0.4_5.0": {
+        "total_cash": 658827.0,
+        "total_inventory": -11300,
+        "count": 4975,
+        "gamma": 0.4,
+        "kappa": 5.0,
+        "avg_cash": 132.42753768844221,
+        "avg_inventory": -2.271356783919598
+    },
+    "0.45_0.5": {
+        "total_cash": 579022.0,
+        "total_inventory": -6828,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 0.5,
+        "avg_cash": 116.38633165829145,
+        "avg_inventory": -1.372462311557789
+    },
+    "0.45_1.0": {
+        "total_cash": 610226.0,
+        "total_inventory": -8485,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 1.0,
+        "avg_cash": 122.65849246231156,
+        "avg_inventory": -1.7055276381909548
+    },
+    "0.45_1.5": {
+        "total_cash": 617556.0,
+        "total_inventory": -8610,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 1.5,
+        "avg_cash": 124.13185929648242,
+        "avg_inventory": -1.7306532663316583
+    },
+    "0.45_2.0": {
+        "total_cash": 653575.0,
+        "total_inventory": -11046,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 2.0,
+        "avg_cash": 131.3718592964824,
+        "avg_inventory": -2.2203015075376884
+    },
+    "0.45_2.5": {
+        "total_cash": 657462.0,
+        "total_inventory": -11258,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 2.5,
+        "avg_cash": 132.15316582914573,
+        "avg_inventory": -2.2629145728643216
+    },
+    "0.45_3.0": {
+        "total_cash": 658608.0,
+        "total_inventory": -11288,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 3.0,
+        "avg_cash": 132.3835175879397,
+        "avg_inventory": -2.2689447236180906
+    },
+    "0.45_3.5": {
+        "total_cash": 657718.0,
+        "total_inventory": -11215,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 3.5,
+        "avg_cash": 132.2046231155779,
+        "avg_inventory": -2.2542713567839194
+    },
+    "0.45_4.0": {
+        "total_cash": 659545.0,
+        "total_inventory": -11296,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 4.0,
+        "avg_cash": 132.57185929648242,
+        "avg_inventory": -2.2705527638190954
+    },
+    "0.45_4.5": {
+        "total_cash": 658910.0,
+        "total_inventory": -11289,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 4.5,
+        "avg_cash": 132.44422110552765,
+        "avg_inventory": -2.269145728643216
+    },
+    "0.45_5.0": {
+        "total_cash": 655325.0,
+        "total_inventory": -11244,
+        "count": 4975,
+        "gamma": 0.45,
+        "kappa": 5.0,
+        "avg_cash": 131.72361809045225,
+        "avg_inventory": -2.2601005025125627
+    },
+    "0.5_0.5": {
+        "total_cash": 580479.0,
+        "total_inventory": -7021,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 0.5,
+        "avg_cash": 116.6791959798995,
+        "avg_inventory": -1.411256281407035
+    },
+    "0.5_1.0": {
+        "total_cash": 602391.0,
+        "total_inventory": -8420,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 1.0,
+        "avg_cash": 121.08361809045226,
+        "avg_inventory": -1.692462311557789
+    },
+    "0.5_1.5": {
+        "total_cash": 613517.0,
+        "total_inventory": -8554,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 1.5,
+        "avg_cash": 123.32,
+        "avg_inventory": -1.7193969849246231
+    },
+    "0.5_2.0": {
+        "total_cash": 648011.0,
+        "total_inventory": -10988,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 2.0,
+        "avg_cash": 130.25346733668343,
+        "avg_inventory": -2.208643216080402
+    },
+    "0.5_2.5": {
+        "total_cash": 654268.0,
+        "total_inventory": -11194,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 2.5,
+        "avg_cash": 131.51115577889448,
+        "avg_inventory": -2.2500502512562814
+    },
+    "0.5_3.0": {
+        "total_cash": 653473.0,
+        "total_inventory": -11235,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 3.0,
+        "avg_cash": 131.35135678391958,
+        "avg_inventory": -2.258291457286432
+    },
+    "0.5_3.5": {
+        "total_cash": 653465.0,
+        "total_inventory": -11252,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 3.5,
+        "avg_cash": 131.3497487437186,
+        "avg_inventory": -2.261708542713568
+    },
+    "0.5_4.0": {
+        "total_cash": 653771.0,
+        "total_inventory": -11313,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 4.0,
+        "avg_cash": 131.41125628140705,
+        "avg_inventory": -2.2739698492462312
+    },
+    "0.5_4.5": {
+        "total_cash": 653637.0,
+        "total_inventory": -11316,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 4.5,
+        "avg_cash": 131.3843216080402,
+        "avg_inventory": -2.274572864321608
+    },
+    "0.5_5.0": {
+        "total_cash": 648910.0,
+        "total_inventory": -11225,
+        "count": 4975,
+        "gamma": 0.5,
+        "kappa": 5.0,
+        "avg_cash": 130.43417085427134,
+        "avg_inventory": -2.2562814070351758
+    },
+    "0.55_0.5": {
+        "total_cash": 576409.0,
+        "total_inventory": -6977,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 0.5,
+        "avg_cash": 115.86110552763819,
+        "avg_inventory": -1.4024120603015076
+    },
+    "0.55_1.0": {
+        "total_cash": 605843.0,
+        "total_inventory": -8520,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 1.0,
+        "avg_cash": 121.77748743718593,
+        "avg_inventory": -1.7125628140703517
+    },
+    "0.55_1.5": {
+        "total_cash": 610495.0,
+        "total_inventory": -8631,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 1.5,
+        "avg_cash": 122.71256281407035,
+        "avg_inventory": -1.7348743718592965
+    },
+    "0.55_2.0": {
+        "total_cash": 650791.0,
+        "total_inventory": -11114,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 2.0,
+        "avg_cash": 130.81226130653266,
+        "avg_inventory": -2.233969849246231
+    },
+    "0.55_2.5": {
+        "total_cash": 656305.0,
+        "total_inventory": -11233,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 2.5,
+        "avg_cash": 131.9206030150754,
+        "avg_inventory": -2.257889447236181
+    },
+    "0.55_3.0": {
+        "total_cash": 653587.0,
+        "total_inventory": -11143,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 3.0,
+        "avg_cash": 131.3742713567839,
+        "avg_inventory": -2.2397989949748744
+    },
+    "0.55_3.5": {
+        "total_cash": 652939.0,
+        "total_inventory": -11161,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 3.5,
+        "avg_cash": 131.24402010050252,
+        "avg_inventory": -2.2434170854271356
+    },
+    "0.55_4.0": {
+        "total_cash": 653673.0,
+        "total_inventory": -11186,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 4.0,
+        "avg_cash": 131.39155778894474,
+        "avg_inventory": -2.248442211055276
+    },
+    "0.55_4.5": {
+        "total_cash": 649400.0,
+        "total_inventory": -11148,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 4.5,
+        "avg_cash": 130.53266331658293,
+        "avg_inventory": -2.2408040201005024
+    },
+    "0.55_5.0": {
+        "total_cash": 648859.0,
+        "total_inventory": -11138,
+        "count": 4975,
+        "gamma": 0.55,
+        "kappa": 5.0,
+        "avg_cash": 130.42391959798994,
+        "avg_inventory": -2.238793969849246
+    },
+    "0.6_0.5": {
+        "total_cash": 571768.0,
+        "total_inventory": -6843,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 0.5,
+        "avg_cash": 114.92824120603015,
+        "avg_inventory": -1.3754773869346735
+    },
+    "0.6_1.0": {
+        "total_cash": 601671.0,
+        "total_inventory": -8331,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 1.0,
+        "avg_cash": 120.93889447236181,
+        "avg_inventory": -1.674572864321608
+    },
+    "0.6_1.5": {
+        "total_cash": 601054.0,
+        "total_inventory": -8370,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 1.5,
+        "avg_cash": 120.81487437185929,
+        "avg_inventory": -1.6824120603015076
+    },
+    "0.6_2.0": {
+        "total_cash": 638351.0,
+        "total_inventory": -10800,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 2.0,
+        "avg_cash": 128.31175879396986,
+        "avg_inventory": -2.170854271356784
+    },
+    "0.6_2.5": {
+        "total_cash": 644612.0,
+        "total_inventory": -10992,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 2.5,
+        "avg_cash": 129.5702512562814,
+        "avg_inventory": -2.2094472361809046
+    },
+    "0.6_3.0": {
+        "total_cash": 645283.0,
+        "total_inventory": -11040,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 3.0,
+        "avg_cash": 129.7051256281407,
+        "avg_inventory": -2.2190954773869347
+    },
+    "0.6_3.5": {
+        "total_cash": 646669.0,
+        "total_inventory": -11088,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 3.5,
+        "avg_cash": 129.98371859296483,
+        "avg_inventory": -2.228743718592965
+    },
+    "0.6_4.0": {
+        "total_cash": 647736.0,
+        "total_inventory": -11045,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 4.0,
+        "avg_cash": 130.19819095477388,
+        "avg_inventory": -2.2201005025125626
+    },
+    "0.6_4.5": {
+        "total_cash": 647175.0,
+        "total_inventory": -11040,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 4.5,
+        "avg_cash": 130.0854271356784,
+        "avg_inventory": -2.2190954773869347
+    },
+    "0.6_5.0": {
+        "total_cash": 643034.0,
+        "total_inventory": -11008,
+        "count": 4975,
+        "gamma": 0.6,
+        "kappa": 5.0,
+        "avg_cash": 129.25306532663316,
+        "avg_inventory": -2.2126633165829146
+    },
+    "0.65_0.5": {
+        "total_cash": 567869.0,
+        "total_inventory": -6812,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 0.5,
+        "avg_cash": 114.14452261306532,
+        "avg_inventory": -1.369246231155779
+    },
+    "0.65_1.0": {
+        "total_cash": 601385.0,
+        "total_inventory": -8345,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 1.0,
+        "avg_cash": 120.88140703517588,
+        "avg_inventory": -1.6773869346733667
+    },
+    "0.65_1.5": {
+        "total_cash": 604406.0,
+        "total_inventory": -8308,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 1.5,
+        "avg_cash": 121.4886432160804,
+        "avg_inventory": -1.6699497487437185
+    },
+    "0.65_2.0": {
+        "total_cash": 634367.0,
+        "total_inventory": -10640,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 2.0,
+        "avg_cash": 127.51095477386934,
+        "avg_inventory": -2.1386934673366835
+    },
+    "0.65_2.5": {
+        "total_cash": 639396.0,
+        "total_inventory": -10897,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 2.5,
+        "avg_cash": 128.52180904522612,
+        "avg_inventory": -2.19035175879397
+    },
+    "0.65_3.0": {
+        "total_cash": 640434.0,
+        "total_inventory": -10885,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 3.0,
+        "avg_cash": 128.73045226130654,
+        "avg_inventory": -2.187939698492462
+    },
+    "0.65_3.5": {
+        "total_cash": 637401.0,
+        "total_inventory": -10885,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 3.5,
+        "avg_cash": 128.1208040201005,
+        "avg_inventory": -2.187939698492462
+    },
+    "0.65_4.0": {
+        "total_cash": 637411.0,
+        "total_inventory": -10877,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 4.0,
+        "avg_cash": 128.12281407035175,
+        "avg_inventory": -2.1863316582914574
+    },
+    "0.65_4.5": {
+        "total_cash": 639113.0,
+        "total_inventory": -10867,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 4.5,
+        "avg_cash": 128.46492462311556,
+        "avg_inventory": -2.184321608040201
+    },
+    "0.65_5.0": {
+        "total_cash": 640183.0,
+        "total_inventory": -10911,
+        "count": 4975,
+        "gamma": 0.65,
+        "kappa": 5.0,
+        "avg_cash": 128.68,
+        "avg_inventory": -2.1931658291457286
+    },
+    "0.7_0.5": {
+        "total_cash": 559150.0,
+        "total_inventory": -6684,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 0.5,
+        "avg_cash": 112.39195979899498,
+        "avg_inventory": -1.3435175879396986
+    },
+    "0.7_1.0": {
+        "total_cash": 598292.0,
+        "total_inventory": -8271,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 1.0,
+        "avg_cash": 120.2596984924623,
+        "avg_inventory": -1.6625125628140704
+    },
+    "0.7_1.5": {
+        "total_cash": 604405.0,
+        "total_inventory": -8295,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 1.5,
+        "avg_cash": 121.48844221105527,
+        "avg_inventory": -1.6673366834170855
+    },
+    "0.7_2.0": {
+        "total_cash": 634129.0,
+        "total_inventory": -10737,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 2.0,
+        "avg_cash": 127.46311557788945,
+        "avg_inventory": -2.158190954773869
+    },
+    "0.7_2.5": {
+        "total_cash": 640221.0,
+        "total_inventory": -10970,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 2.5,
+        "avg_cash": 128.68763819095477,
+        "avg_inventory": -2.205025125628141
+    },
+    "0.7_3.0": {
+        "total_cash": 642945.0,
+        "total_inventory": -10966,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 3.0,
+        "avg_cash": 129.235175879397,
+        "avg_inventory": -2.204221105527638
+    },
+    "0.7_3.5": {
+        "total_cash": 640095.0,
+        "total_inventory": -10912,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 3.5,
+        "avg_cash": 128.66231155778894,
+        "avg_inventory": -2.1933668341708543
+    },
+    "0.7_4.0": {
+        "total_cash": 642425.0,
+        "total_inventory": -10912,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 4.0,
+        "avg_cash": 129.13065326633165,
+        "avg_inventory": -2.1933668341708543
+    },
+    "0.7_4.5": {
+        "total_cash": 642824.0,
+        "total_inventory": -10961,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 4.5,
+        "avg_cash": 129.2108542713568,
+        "avg_inventory": -2.2032160804020102
+    },
+    "0.7_5.0": {
+        "total_cash": 641422.0,
+        "total_inventory": -10955,
+        "count": 4975,
+        "gamma": 0.7,
+        "kappa": 5.0,
+        "avg_cash": 128.92904522613065,
+        "avg_inventory": -2.202010050251256
+    },
+    "0.75_0.5": {
+        "total_cash": 559141.0,
+        "total_inventory": -6677,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 0.5,
+        "avg_cash": 112.39015075376885,
+        "avg_inventory": -1.342110552763819
+    },
+    "0.75_1.0": {
+        "total_cash": 590664.0,
+        "total_inventory": -8217,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 1.0,
+        "avg_cash": 118.72643216080402,
+        "avg_inventory": -1.6516582914572864
+    },
+    "0.75_1.5": {
+        "total_cash": 593449.0,
+        "total_inventory": -8186,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 1.5,
+        "avg_cash": 119.28623115577889,
+        "avg_inventory": -1.645427135678392
+    },
+    "0.75_2.0": {
+        "total_cash": 636505.0,
+        "total_inventory": -10895,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 2.0,
+        "avg_cash": 127.94070351758793,
+        "avg_inventory": -2.1899497487437185
+    },
+    "0.75_2.5": {
+        "total_cash": 637393.0,
+        "total_inventory": -10977,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 2.5,
+        "avg_cash": 128.1191959798995,
+        "avg_inventory": -2.2064321608040203
+    },
+    "0.75_3.0": {
+        "total_cash": 634984.0,
+        "total_inventory": -10822,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 3.0,
+        "avg_cash": 127.63497487437186,
+        "avg_inventory": -2.1752763819095478
+    },
+    "0.75_3.5": {
+        "total_cash": 639088.0,
+        "total_inventory": -10877,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 3.5,
+        "avg_cash": 128.45989949748744,
+        "avg_inventory": -2.1863316582914574
+    },
+    "0.75_4.0": {
+        "total_cash": 641015.0,
+        "total_inventory": -10948,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 4.0,
+        "avg_cash": 128.84723618090453,
+        "avg_inventory": -2.200603015075377
+    },
+    "0.75_4.5": {
+        "total_cash": 638210.0,
+        "total_inventory": -10923,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 4.5,
+        "avg_cash": 128.28341708542715,
+        "avg_inventory": -2.195577889447236
+    },
+    "0.75_5.0": {
+        "total_cash": 642331.0,
+        "total_inventory": -10969,
+        "count": 4975,
+        "gamma": 0.75,
+        "kappa": 5.0,
+        "avg_cash": 129.11175879396984,
+        "avg_inventory": -2.204824120603015
+    },
+    "0.8_0.5": {
+        "total_cash": 557446.0,
+        "total_inventory": -6688,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 0.5,
+        "avg_cash": 112.04944723618091,
+        "avg_inventory": -1.344321608040201
+    },
+    "0.8_1.0": {
+        "total_cash": 584761.0,
+        "total_inventory": -8101,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 1.0,
+        "avg_cash": 117.53989949748744,
+        "avg_inventory": -1.6283417085427137
+    },
+    "0.8_1.5": {
+        "total_cash": 582501.0,
+        "total_inventory": -8060,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 1.5,
+        "avg_cash": 117.08562814070352,
+        "avg_inventory": -1.6201005025125628
+    },
+    "0.8_2.0": {
+        "total_cash": 629699.0,
+        "total_inventory": -10817,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 2.0,
+        "avg_cash": 126.57266331658292,
+        "avg_inventory": -2.17427135678392
+    },
+    "0.8_2.5": {
+        "total_cash": 634013.0,
+        "total_inventory": -11044,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 2.5,
+        "avg_cash": 127.43979899497488,
+        "avg_inventory": -2.2198994974874373
+    },
+    "0.8_3.0": {
+        "total_cash": 633002.0,
+        "total_inventory": -10905,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 3.0,
+        "avg_cash": 127.23658291457286,
+        "avg_inventory": -2.191959798994975
+    },
+    "0.8_3.5": {
+        "total_cash": 632154.0,
+        "total_inventory": -10879,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 3.5,
+        "avg_cash": 127.06613065326633,
+        "avg_inventory": -2.1867336683417085
+    },
+    "0.8_4.0": {
+        "total_cash": 631123.0,
+        "total_inventory": -10837,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 4.0,
+        "avg_cash": 126.85889447236181,
+        "avg_inventory": -2.178291457286432
+    },
+    "0.8_4.5": {
+        "total_cash": 632560.0,
+        "total_inventory": -10847,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 4.5,
+        "avg_cash": 127.14773869346733,
+        "avg_inventory": -2.1803015075376884
+    },
+    "0.8_5.0": {
+        "total_cash": 634554.0,
+        "total_inventory": -10870,
+        "count": 4975,
+        "gamma": 0.8,
+        "kappa": 5.0,
+        "avg_cash": 127.54854271356784,
+        "avg_inventory": -2.184924623115578
+    },
+    "0.85_0.5": {
+        "total_cash": 550824.0,
+        "total_inventory": -6596,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 0.5,
+        "avg_cash": 110.71839195979899,
+        "avg_inventory": -1.3258291457286433
+    },
+    "0.85_1.0": {
+        "total_cash": 575334.0,
+        "total_inventory": -7982,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 1.0,
+        "avg_cash": 115.64502512562814,
+        "avg_inventory": -1.6044221105527638
+    },
+    "0.85_1.5": {
+        "total_cash": 576694.0,
+        "total_inventory": -8006,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 1.5,
+        "avg_cash": 115.918391959799,
+        "avg_inventory": -1.609246231155779
+    },
+    "0.85_2.0": {
+        "total_cash": 628779.0,
+        "total_inventory": -10690,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 2.0,
+        "avg_cash": 126.38773869346734,
+        "avg_inventory": -2.1487437185929648
+    },
+    "0.85_2.5": {
+        "total_cash": 637150.0,
+        "total_inventory": -11009,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 2.5,
+        "avg_cash": 128.07035175879398,
+        "avg_inventory": -2.2128643216080404
+    },
+    "0.85_3.0": {
+        "total_cash": 635611.0,
+        "total_inventory": -10921,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 3.0,
+        "avg_cash": 127.76100502512563,
+        "avg_inventory": -2.195175879396985
+    },
+    "0.85_3.5": {
+        "total_cash": 635037.0,
+        "total_inventory": -10898,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 3.5,
+        "avg_cash": 127.64562814070352,
+        "avg_inventory": -2.1905527638190954
+    },
+    "0.85_4.0": {
+        "total_cash": 635537.0,
+        "total_inventory": -10908,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 4.0,
+        "avg_cash": 127.74613065326633,
+        "avg_inventory": -2.1925628140703517
+    },
+    "0.85_4.5": {
+        "total_cash": 632597.0,
+        "total_inventory": -10803,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 4.5,
+        "avg_cash": 127.15517587939698,
+        "avg_inventory": -2.171457286432161
+    },
+    "0.85_5.0": {
+        "total_cash": 633158.0,
+        "total_inventory": -10844,
+        "count": 4975,
+        "gamma": 0.85,
+        "kappa": 5.0,
+        "avg_cash": 127.26793969849247,
+        "avg_inventory": -2.1796984924623115
+    },
+    "0.9_0.5": {
+        "total_cash": 550109.0,
+        "total_inventory": -6583,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 0.5,
+        "avg_cash": 110.57467336683418,
+        "avg_inventory": -1.32321608040201
+    },
+    "0.9_1.0": {
+        "total_cash": 570250.0,
+        "total_inventory": -7852,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 1.0,
+        "avg_cash": 114.62311557788945,
+        "avg_inventory": -1.5782914572864322
+    },
+    "0.9_1.5": {
+        "total_cash": 568745.0,
+        "total_inventory": -7807,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 1.5,
+        "avg_cash": 114.32060301507538,
+        "avg_inventory": -1.5692462311557789
+    },
+    "0.9_2.0": {
+        "total_cash": 629895.0,
+        "total_inventory": -10640,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 2.0,
+        "avg_cash": 126.61206030150754,
+        "avg_inventory": -2.1386934673366835
+    },
+    "0.9_2.5": {
+        "total_cash": 633857.0,
+        "total_inventory": -10900,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 2.5,
+        "avg_cash": 127.40844221105527,
+        "avg_inventory": -2.190954773869347
+    },
+    "0.9_3.0": {
+        "total_cash": 637345.0,
+        "total_inventory": -10895,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 3.0,
+        "avg_cash": 128.10954773869346,
+        "avg_inventory": -2.1899497487437185
+    },
+    "0.9_3.5": {
+        "total_cash": 634807.0,
+        "total_inventory": -10863,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 3.5,
+        "avg_cash": 127.59939698492462,
+        "avg_inventory": -2.1835175879396984
+    },
+    "0.9_4.0": {
+        "total_cash": 639282.0,
+        "total_inventory": -10994,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 4.0,
+        "avg_cash": 128.4988944723618,
+        "avg_inventory": -2.2098492462311556
+    },
+    "0.9_4.5": {
+        "total_cash": 638978.0,
+        "total_inventory": -10991,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 4.5,
+        "avg_cash": 128.43778894472362,
+        "avg_inventory": -2.209246231155779
+    },
+    "0.9_5.0": {
+        "total_cash": 641371.0,
+        "total_inventory": -11036,
+        "count": 4975,
+        "gamma": 0.9,
+        "kappa": 5.0,
+        "avg_cash": 128.91879396984925,
+        "avg_inventory": -2.218291457286432
+    },
+    "0.95_0.5": {
+        "total_cash": 539041.0,
+        "total_inventory": -6314,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 0.5,
+        "avg_cash": 108.34994974874373,
+        "avg_inventory": -1.2691457286432162
+    },
+    "0.95_1.0": {
+        "total_cash": 568859.0,
+        "total_inventory": -7831,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 1.0,
+        "avg_cash": 114.3435175879397,
+        "avg_inventory": -1.574070351758794
+    },
+    "0.95_1.5": {
+        "total_cash": 571991.0,
+        "total_inventory": -7842,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 1.5,
+        "avg_cash": 114.97306532663316,
+        "avg_inventory": -1.5762814070351758
+    },
+    "0.95_2.0": {
+        "total_cash": 621152.0,
+        "total_inventory": -10468,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 2.0,
+        "avg_cash": 124.85467336683418,
+        "avg_inventory": -2.104120603015075
+    },
+    "0.95_2.5": {
+        "total_cash": 626427.0,
+        "total_inventory": -10752,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 2.5,
+        "avg_cash": 125.91497487437186,
+        "avg_inventory": -2.161206030150754
+    },
+    "0.95_3.0": {
+        "total_cash": 630956.0,
+        "total_inventory": -10803,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 3.0,
+        "avg_cash": 126.82532663316583,
+        "avg_inventory": -2.171457286432161
+    },
+    "0.95_3.5": {
+        "total_cash": 635975.0,
+        "total_inventory": -10890,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 3.5,
+        "avg_cash": 127.83417085427136,
+        "avg_inventory": -2.1889447236180906
+    },
+    "0.95_4.0": {
+        "total_cash": 636536.0,
+        "total_inventory": -10928,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 4.0,
+        "avg_cash": 127.94693467336684,
+        "avg_inventory": -2.1965829145728644
+    },
+    "0.95_4.5": {
+        "total_cash": 635549.0,
+        "total_inventory": -10909,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 4.5,
+        "avg_cash": 127.74854271356784,
+        "avg_inventory": -2.1927638190954775
+    },
+    "0.95_5.0": {
+        "total_cash": 636170.0,
+        "total_inventory": -10945,
+        "count": 4975,
+        "gamma": 0.95,
+        "kappa": 5.0,
+        "avg_cash": 127.87336683417085,
+        "avg_inventory": -2.2
+    },
+    "1.0_0.5": {
+        "total_cash": 534249.0,
+        "total_inventory": -6244,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 0.5,
+        "avg_cash": 107.3867336683417,
+        "avg_inventory": -1.255075376884422
+    },
+    "1.0_1.0": {
+        "total_cash": 564103.0,
+        "total_inventory": -7674,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 1.0,
+        "avg_cash": 113.38753768844221,
+        "avg_inventory": -1.5425125628140703
+    },
+    "1.0_1.5": {
+        "total_cash": 572624.0,
+        "total_inventory": -7851,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 1.5,
+        "avg_cash": 115.1003015075377,
+        "avg_inventory": -1.5780904522613066
+    },
+    "1.0_2.0": {
+        "total_cash": 626125.0,
+        "total_inventory": -10560,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 2.0,
+        "avg_cash": 125.85427135678393,
+        "avg_inventory": -2.1226130653266333
+    },
+    "1.0_2.5": {
+        "total_cash": 629947.0,
+        "total_inventory": -10803,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 2.5,
+        "avg_cash": 126.62251256281407,
+        "avg_inventory": -2.171457286432161
+    },
+    "1.0_3.0": {
+        "total_cash": 629957.0,
+        "total_inventory": -10840,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 3.0,
+        "avg_cash": 126.62452261306532,
+        "avg_inventory": -2.178894472361809
+    },
+    "1.0_3.5": {
+        "total_cash": 630491.0,
+        "total_inventory": -10848,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 3.5,
+        "avg_cash": 126.73185929648241,
+        "avg_inventory": -2.180502512562814
+    },
+    "1.0_4.0": {
+        "total_cash": 633072.0,
+        "total_inventory": -10860,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 4.0,
+        "avg_cash": 127.25065326633165,
+        "avg_inventory": -2.1829145728643216
+    },
+    "1.0_4.5": {
+        "total_cash": 632356.0,
+        "total_inventory": -10834,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 4.5,
+        "avg_cash": 127.1067336683417,
+        "avg_inventory": -2.177688442211055
+    },
+    "1.0_5.0": {
+        "total_cash": 631541.0,
+        "total_inventory": -10831,
+        "count": 4975,
+        "gamma": 1.0,
+        "kappa": 5.0,
+        "avg_cash": 126.94291457286432,
+        "avg_inventory": -2.1770854271356783
+    }
+}

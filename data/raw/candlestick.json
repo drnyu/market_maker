@@ -1,0 +1,50 @@
+{
+  "ticker": "POPVOTEMOVSMALL-24-R-B1.4",
+  "candlesticks": [
+    {
+      "end_period_ts": 1733023080,
+      "yes_bid": { "open": 76, "low": 76, "high": 76, "close": 76 },
+      "yes_ask": { "open": 77, "low": 77, "high": 77, "close": 77 },
+      "price": {
+        "open": 76,
+        "low": 76,
+        "high": 76,
+        "close": 76,
+        "mean": 76,
+        "previous": 76
+      },
+      "volume": 50,
+      "open_interest": 3352361
+    },
+    {
+      "end_period_ts": 1733023140,
+      "yes_bid": { "open": 76, "low": 76, "high": 77, "close": 77 },
+      "yes_ask": { "open": 77, "low": 77, "high": 78, "close": 78 },
+      "price": {
+        "open": 77,
+        "low": 77,
+        "high": 77,
+        "close": 77,
+        "mean": 77,
+        "previous": 76
+      },
+      "volume": 3763,
+      "open_interest": 3352422
+    },
+    {
+      "end_period_ts": 1733023260,
+      "yes_bid": { "open": 77, "low": 77, "high": 77, "close": 77 },
+      "yes_ask": { "open": 78, "low": 78, "high": 78, "close": 78 },
+      "price": {
+        "open": 77,
+        "low": 77,
+        "high": 77,
+        "close": 77,
+        "mean": 77,
+        "previous": 77
+      },
+      "volume": 85,
+      "open_interest": 3352422
+    }
+  ]
+}
