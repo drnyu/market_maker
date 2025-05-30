@@ -362,28 +362,46 @@ class EventDrivenBacktester:
                 if order.get("remaining", order["size"]) <= 0:
                     continue
                 if order["side"] == "bid" and trade_price <= order["price"]:
+                    # can only fill as much of the order as the trade volume will allow
                     fill_qty = min(order["remaining"], trade_volume)
                     order["remaining"] -= fill_qty
                     self.current_inventory += fill_qty
                     self.cash -= fill_qty * trade_price
                 elif order["side"] == "ask" and trade_price >= order["price"]:
+                    # can only fill as much of the order as the trade volume will allow
                     fill_qty = min(order["remaining"], trade_volume)
                     order["remaining"] -= fill_qty
+                    # filling an ask order allows inventory to take on negative values
                     self.current_inventory -= fill_qty
                     self.cash += fill_qty * trade_price
         except Exception as e:
             logging.error(f"Error processing trade at time {current_time}: {e}")
 
     def simulate(self):
+        """Runs the main event loop of the backtest.
+
+        Processes events from the priority queue one by one until the queue is empty.
+
+        Returns:
+            dict: A dictionary containing the final 'cash' and 'inventory' state.
+        """
+
         while self.events:
             event = heapq.heappop(self.events)
             current_time = event.timestamp
             if event.event_type == "orderbook":
+                # data consists of: 
+                # yes: list of price/volume pairs?
+                # no: list of price/volume pairs?
                 self.cancel_active_orders(current_time)
                 self.current_orderbook = event.data
                 self.place_orders(current_time)
             elif event.event_type == "trade":
+                # data consists of
+                # trade_id, ticker, count, created_time, 
+                # yes_price, no_price, taker_side
                 self.process_trade(current_time, event.data)
+        # result consists of cash (amount earned/lost) and inventory (contracts remaining)
         return {"cash": self.cash, "inventory": self.current_inventory}
 
 
@@ -392,7 +410,25 @@ class EventDrivenBacktester:
 # ------------------------------------------------------------------------------
 def run_simulation_for_market(orderbook_path, trade_path, gamma_values, kappa_values):
     """Loads the specified files and runs the grid search simulation for one market.
-    Returns a list of results for each (gamma,kappa) combination."""
+       Returns a list of results for each (gamma,kappa) combination.
+       
+    Loads historical orderbook and trade data from the specified JSONL files.
+    For each combination of gamma and kappa values provided, it initializes a
+    StrategyEngine and an EventDrivenBacktester, runs the simulation, and
+    collects the results (final cash and inventory).
+
+    Args:
+        orderbook_path (str): The file path to the JSONL file containing orderbook events.
+        trade_path (str): The file path to the JSONL file containing trade events.
+        gamma_values (list): A list of float values for the gamma parameter to test.
+        kappa_values (list): A list of float values for the kappa parameter to test.
+
+    Returns:
+        list: A list of dictionaries, where each dictionary represents the result
+              of a simulation run for a specific (gamma, kappa) pair. Each dictionary
+              contains 'cash', 'inventory', 'gamma', and 'kappa'.
+    """
+
     orderbook_events = load_jsonl(orderbook_path)
     trade_events = load_jsonl(trade_path)
     market_results = []
@@ -401,14 +437,28 @@ def run_simulation_for_market(orderbook_path, trade_path, gamma_values, kappa_va
             strategy = StrategyEngine(gamma=gamma, kappa=kappa, base_order_size=10)
             backtester = EventDrivenBacktester(orderbook_events, trade_events, strategy)
             result = backtester.simulate()
+            # result content:
+            # cash, inventory, gamma, kappa
             result.update({"gamma": gamma, "kappa": kappa})
             market_results.append(result)
+    
+    # market results includes
     return market_results
 
 
 def aggregate_overall_results(per_market_results):
-    """Combine results from multiple markets into overall averages.
-    per_market_results is a dict mapping market name to the list of its simulation results."""
+    """Calculates the average cash and inventory for each (gamma, kappa) pair across
+    all simulated markets.
+
+    Args:
+        per_market_results (dict): A dictionary where keys are market names and values
+                                   are lists of simulation results (dicts) for that market.
+
+    Returns:
+        dict: A dictionary where keys are strings "gamma_kappa" and values are dicts
+              containing 'avg_cash', 'avg_inventory', 'gamma', 'kappa', and counts.
+    """
+
     overall = defaultdict(lambda: {"total_cash": 0, "total_inventory": 0, "count": 0, "gamma": None, "kappa": None})
     for market, results in per_market_results.items():
         for res in results:
@@ -429,7 +479,27 @@ def aggregate_overall_results(per_market_results):
 # Main Execution: Iterate over each market file pair in the "data" folder.
 # ------------------------------------------------------------------------------
 def main():
-    data_folder = "data"  # Adjust if needed.
+    """
+    Main execution function for the simulation script.
+
+    Parses command-line arguments for the data folder location.
+    Identifies market data files (orderbook and trades).
+    Runs simulations for each market across a grid of gamma and kappa values.
+    Aggregates results and saves them to JSON files.
+    """
+
+    parser = argparse.ArgumentParser(description="Run a simulation using data from a specified folder.")
+    parser.add_argument(
+        "-d",                          # Short flag
+        "--data-folder",               # Long argument name
+        type=str,                      # Expected type is string (a path)
+        default="data",                # Default value if the argument isn't provided
+        help="Path to the folder containing the data files (e.g., orderbook and trade files)." # Help text shown with -h
+    )
+
+    args = parser.parse_args()
+    data_folder = args.data_folder
+
     files = os.listdir(data_folder)
     markets = {}  # Map: market_name -> {"orderbook": path, "trades": path}
     for f in files:
@@ -459,6 +529,8 @@ def main():
         results = run_simulation_for_market(ob_path, tr_path, gamma_values, kappa_values)
         per_market_results[market] = results
 
+    # all backtesting simulations are complete on a per market basis
+    # overall results provides a global view of which kappa/gamma pairing provide best results
     overall_results = aggregate_overall_results(per_market_results)
 
     # Save per-market results and overall results.
